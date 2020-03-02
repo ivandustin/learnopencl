@@ -1,6 +1,6 @@
 # Learn OpenCL
 
-OpenCL is a C/C++ library for general-purpose heterogenous (CPU, GPU, FGPA, etc.) computing. Use it to do cross-vendor GPGPU programming.
+OpenCL stands for Open Compute Language. OpenCL is a C/C++ library for general-purpose heterogenous (CPU, GPU, FGPA, etc.) computing. Use it to do cross-vendor GPGPU programming.
 
 ## Learning Resources
 
